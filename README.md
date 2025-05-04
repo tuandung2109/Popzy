@@ -12,3 +12,9 @@ Popzy được tạo ra như một thư viện modal thuần JavaScript (~2kB kh
 Ứng dụng: Thư viện này phù hợp để hiển thị nội dung như thông báo, biểu mẫu, video nhúng (ví dụ: YouTube), hoặc bất kỳ nội dung HTML nào trong một cửa sổ modal.
 
 DEMO : 
+
+Video : https://byvn.net/7gYv
+
+
+
+![Screenshot 2025-05-04 123211](https://github.com/user-attachments/assets/4abde534-8939-4d11-802e-b13afeb42965)
